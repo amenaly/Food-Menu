@@ -1,6 +1,5 @@
 /*
-Anerys Menal
-CSI 230
+Anerys
 4/28/2020
 Program #15*/
 #include<iostream>
